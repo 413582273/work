@@ -1,0 +1,20 @@
+C:\程序\equipment search\equipment search\bin\Debug\equipment search.exe.config
+C:\程序\equipment search\equipment search\bin\Debug\equipment search.exe
+C:\程序\equipment search\equipment search\bin\Debug\equipment search.pdb
+C:\程序\equipment search\equipment search\obj\Debug\equipment search.csprojResolveAssemblyReference.cache
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Properties.Resources.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment search.csproj.GenerateResource.Cache
+C:\程序\equipment search\equipment search\obj\Debug\equipment search.exe
+C:\程序\equipment search\equipment search\obj\Debug\equipment search.pdb
+C:\程序\equipment search\equipment search\bin\Debug\EntityFramework.xml
+C:\程序\equipment search\equipment search\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form2.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form1.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form3.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_searchvendor.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_login.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_project.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_equipment.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_data.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.Form_dataversion.resources
+C:\程序\equipment search\equipment search\obj\Debug\equipment_search.test.resources
